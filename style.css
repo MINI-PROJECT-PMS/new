@@ -1,4 +1,4 @@
-/* *
+*
 {
     margin: 0;
     padding: 0;
@@ -67,9 +67,9 @@ ul li ul li{
 ul li ul{
  display: none;
 }
-ul li:hover ul{
+ ul li:hover ul{
     display: block;
-}
+} 
 .log{
     margin-left: 10px;
     margin-top: 350px;
@@ -91,6 +91,7 @@ body
     background-image: url(office.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    border: 2px solid black;
 }
 h1
 {
@@ -160,4 +161,10 @@ h1
     width: 50px;
     height: 280px;
     text-align: center;
+}
+.login1:hover{
+display: block;
+}
+.hi{
+    cursor: pointer;
 }
