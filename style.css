@@ -5,6 +5,7 @@
     box-sizing: border-box;
     border: 0;
 }
+<<<<<<< HEAD
 
 /* img
 {
@@ -73,6 +74,8 @@ ul li ul{
 gap: 10px;
  flex-direction:column;
 } 
+=======
+>>>>>>> 705a728ecf949bbbad09d0673da4165dded589e5
 body
 {
     font-family: 'Times New Roman', Times, serif;
@@ -88,7 +91,7 @@ h1
     text-align: center;
     color: white;
 }
-/* img
+img
 {
     position: absolute;
     right: 0;
@@ -98,7 +101,7 @@ h1
     height: 100;
     object-fit: cover;
     pointer-events: none;
-} */
+}
 .one
 {
     margin-top: 30px;
@@ -127,7 +130,7 @@ h1
 {
     display: none;
 }
-/* .two ul 
+.two ul 
 {
     list-style: none;
     display: flex;
@@ -137,7 +140,7 @@ h1
     text-align: center;
     width: 80px;
     height: 300px;
-} */
+}
 .log
 {
     margin-left: 130px;
@@ -151,8 +154,9 @@ h1
     height: 280px;
     text-align: center;
 }
-.login1:hover{
-display: block;
+.login1:hover
+{
+    display: block;
 }
 .hi{
     cursor: pointer;
