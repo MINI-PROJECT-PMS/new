@@ -12,7 +12,7 @@ body
     background-image: url(office.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .menu
 {
