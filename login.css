@@ -18,7 +18,7 @@ body
     height: 340px;
     overflow: hidden;
     padding: 35px;
-    background-color: aliceblue;
+    background-color: black;
     border-radius: 25px ;
     position: absolute;
 }
@@ -46,7 +46,7 @@ body
     border: none;
     border-radius: 17px;
     padding-left: 7px;
-    color: black;
+    color: white;
 }
 #log:hover
 {
